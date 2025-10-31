@@ -10,7 +10,7 @@ env:
   AZURE_APP_PLAN: actions-ttt-deployment
   AZURE_LOCATION: '"France Central"'
   ###############################################
-  ### Replace <username> with GitHub EricF6975 ###
+  ### Replace <username> with GitHub EricF6975 / modif pour relancer actions ###
   ###############################################
   AZURE_WEBAPP_NAME: EricF6975-ttt-app
 
