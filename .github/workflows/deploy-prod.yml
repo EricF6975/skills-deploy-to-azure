@@ -8,7 +8,7 @@ on:
 env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
-  ### Replace EricF6975 with GitHub username aaa ###
+  ### Replace EricF6975 with GitHub username aabba ###
   ###############################################
   DOCKER_IMAGE_NAME: EricF6975-azure-ttt
   AZURE_WEBAPP_NAME: EricF6975-ttt-app
